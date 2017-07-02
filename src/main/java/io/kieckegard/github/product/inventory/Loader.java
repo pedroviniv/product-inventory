@@ -6,7 +6,6 @@
 package io.kieckegard.github.product.inventory;
 
 import java.math.BigDecimal;
-import java.util.Optional;
 
 /**
  *
